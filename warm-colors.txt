@@ -4,3 +4,4 @@ yellow
 maroon
 magenta
 gold
+crimson
